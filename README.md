@@ -30,6 +30,8 @@ After you're done and started the addon (so it installs the dependencies) downlo
 
 Documentation on how to use the actual API and how to create custom sensors is available here: https://github.com/wkd8176/hass-smartthinq/blob/master/README.md
 
+Keep in mind that you will have to either make a US account and register your Washer to that or change COUNTRY and LANGUAGE in wideq.py (Using a US account is recommended as the API seems to be more stable)
+
 # Contributing
 If you'd like to contribute i'd suggest contributing directly to either [Adrian Sampson](https://github.com/sampsyo) repo or [wkd8176](https://github.com/wkd8176)
 
